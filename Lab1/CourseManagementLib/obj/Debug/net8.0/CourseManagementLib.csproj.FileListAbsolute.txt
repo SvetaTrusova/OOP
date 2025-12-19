@@ -1,0 +1,12 @@
+C:\Users\А\Desktop\ИТМО\ООП\OOP\Lab1\CourseManagementLib\bin\Debug\net8.0\CourseManagementLib.deps.json
+C:\Users\А\Desktop\ИТМО\ООП\OOP\Lab1\CourseManagementLib\bin\Debug\net8.0\CourseManagementLib.dll
+C:\Users\А\Desktop\ИТМО\ООП\OOP\Lab1\CourseManagementLib\bin\Debug\net8.0\CourseManagementLib.pdb
+C:\Users\А\Desktop\ИТМО\ООП\OOP\Lab1\CourseManagementLib\obj\Debug\net8.0\CourseManagementLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\А\Desktop\ИТМО\ООП\OOP\Lab1\CourseManagementLib\obj\Debug\net8.0\CourseManagementLib.AssemblyInfoInputs.cache
+C:\Users\А\Desktop\ИТМО\ООП\OOP\Lab1\CourseManagementLib\obj\Debug\net8.0\CourseManagementLib.AssemblyInfo.cs
+C:\Users\А\Desktop\ИТМО\ООП\OOP\Lab1\CourseManagementLib\obj\Debug\net8.0\CourseManagementLib.csproj.CoreCompileInputs.cache
+C:\Users\А\Desktop\ИТМО\ООП\OOP\Lab1\CourseManagementLib\obj\Debug\net8.0\CourseManagementLib.sourcelink.json
+C:\Users\А\Desktop\ИТМО\ООП\OOP\Lab1\CourseManagementLib\obj\Debug\net8.0\CourseManagementLib.dll
+C:\Users\А\Desktop\ИТМО\ООП\OOP\Lab1\CourseManagementLib\obj\Debug\net8.0\refint\CourseManagementLib.dll
+C:\Users\А\Desktop\ИТМО\ООП\OOP\Lab1\CourseManagementLib\obj\Debug\net8.0\CourseManagementLib.pdb
+C:\Users\А\Desktop\ИТМО\ООП\OOP\Lab1\CourseManagementLib\obj\Debug\net8.0\ref\CourseManagementLib.dll

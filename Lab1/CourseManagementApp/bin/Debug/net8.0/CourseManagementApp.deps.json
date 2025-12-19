@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CourseManagementApp/1.0.0": {
+        "dependencies": {
+          "CourseManagementLib": "1.0.0"
+        },
+        "runtime": {
+          "CourseManagementApp.dll": {}
+        }
+      },
+      "CourseManagementLib/1.0.0": {
+        "runtime": {
+          "CourseManagementLib.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CourseManagementApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CourseManagementLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
