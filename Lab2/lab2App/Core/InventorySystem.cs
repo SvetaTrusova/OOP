@@ -80,7 +80,6 @@ namespace InventorySystem.Core
 
         public bool CanAddItem(Item item)
         {
-            // Проверяем, можно ли стакать предмет
             if (item is IUsable usableItem)
             {
                 var existingItem = Items.Find(i => i.Name == item.Name && i is IUsable);
@@ -90,13 +89,12 @@ namespace InventorySystem.Core
                 }
             }
             
-            // Проверяем общее количество
             return Items.Count < Capacity;
         }
 
         public bool RemoveItem(string itemId)
         {
-            var item = Items.FirstOrDefault(i => i.Id == itemId);
+            var item = Items.Find(i => i.Id == itemId);
             if (item != null)
             {
                 Items.Remove(item);

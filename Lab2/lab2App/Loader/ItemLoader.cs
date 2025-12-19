@@ -1,8 +1,7 @@
 using InventorySystem.Enums;
 using InventorySystem.Models;
-using System.Globalization;
 
-namespace InventorySystem.Services
+namespace InventorySystem.Loader
 {
     public class TxtItemLoader
     {

@@ -132,7 +132,7 @@ namespace lab2Tests
             // Assert
             Assert.IsFalse(result);
             Assert.AreEqual(1, inventory.Items.Count);
-            Assert.AreEqual(100, player.Gold); // Только первый предмет куплен
+            Assert.AreEqual(100, player.Gold);
         }
     }
 }
