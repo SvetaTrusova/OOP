@@ -1,0 +1,15 @@
+C:\Users\А\Desktop\ИТМО\ООП\OOP\lab2\lab2App\obj\Debug\net8.0\lab2App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\А\Desktop\ИТМО\ООП\OOP\lab2\lab2App\obj\Debug\net8.0\lab2App.AssemblyInfoInputs.cache
+C:\Users\А\Desktop\ИТМО\ООП\OOP\lab2\lab2App\obj\Debug\net8.0\lab2App.AssemblyInfo.cs
+C:\Users\А\Desktop\ИТМО\ООП\OOP\lab2\lab2App\obj\Debug\net8.0\lab2App.csproj.CoreCompileInputs.cache
+C:\Users\А\Desktop\ИТМО\ООП\OOP\lab2\lab2App\obj\Debug\net8.0\lab2App.sourcelink.json
+C:\Users\А\Desktop\ИТМО\ООП\OOP\lab2\lab2App\bin\Debug\net8.0\lab2App.exe
+C:\Users\А\Desktop\ИТМО\ООП\OOP\lab2\lab2App\bin\Debug\net8.0\lab2App.deps.json
+C:\Users\А\Desktop\ИТМО\ООП\OOP\lab2\lab2App\bin\Debug\net8.0\lab2App.runtimeconfig.json
+C:\Users\А\Desktop\ИТМО\ООП\OOP\lab2\lab2App\bin\Debug\net8.0\lab2App.dll
+C:\Users\А\Desktop\ИТМО\ООП\OOP\lab2\lab2App\bin\Debug\net8.0\lab2App.pdb
+C:\Users\А\Desktop\ИТМО\ООП\OOP\lab2\lab2App\obj\Debug\net8.0\lab2App.dll
+C:\Users\А\Desktop\ИТМО\ООП\OOP\lab2\lab2App\obj\Debug\net8.0\refint\lab2App.dll
+C:\Users\А\Desktop\ИТМО\ООП\OOP\lab2\lab2App\obj\Debug\net8.0\lab2App.pdb
+C:\Users\А\Desktop\ИТМО\ООП\OOP\lab2\lab2App\obj\Debug\net8.0\lab2App.genruntimeconfig.cache
+C:\Users\А\Desktop\ИТМО\ООП\OOP\lab2\lab2App\obj\Debug\net8.0\ref\lab2App.dll
