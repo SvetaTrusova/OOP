@@ -1,0 +1,15 @@
+C:\Users\А\Desktop\ИТМО\ООП\OOP\Lab3\lab3App\bin\Debug\net8.0\lab3App.exe
+C:\Users\А\Desktop\ИТМО\ООП\OOP\Lab3\lab3App\bin\Debug\net8.0\lab3App.deps.json
+C:\Users\А\Desktop\ИТМО\ООП\OOP\Lab3\lab3App\bin\Debug\net8.0\lab3App.runtimeconfig.json
+C:\Users\А\Desktop\ИТМО\ООП\OOP\Lab3\lab3App\bin\Debug\net8.0\lab3App.dll
+C:\Users\А\Desktop\ИТМО\ООП\OOP\Lab3\lab3App\bin\Debug\net8.0\lab3App.pdb
+C:\Users\А\Desktop\ИТМО\ООП\OOP\Lab3\lab3App\obj\Debug\net8.0\lab3App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\А\Desktop\ИТМО\ООП\OOP\Lab3\lab3App\obj\Debug\net8.0\lab3App.AssemblyInfoInputs.cache
+C:\Users\А\Desktop\ИТМО\ООП\OOP\Lab3\lab3App\obj\Debug\net8.0\lab3App.AssemblyInfo.cs
+C:\Users\А\Desktop\ИТМО\ООП\OOP\Lab3\lab3App\obj\Debug\net8.0\lab3App.csproj.CoreCompileInputs.cache
+C:\Users\А\Desktop\ИТМО\ООП\OOP\Lab3\lab3App\obj\Debug\net8.0\lab3App.sourcelink.json
+C:\Users\А\Desktop\ИТМО\ООП\OOP\Lab3\lab3App\obj\Debug\net8.0\lab3App.dll
+C:\Users\А\Desktop\ИТМО\ООП\OOP\Lab3\lab3App\obj\Debug\net8.0\refint\lab3App.dll
+C:\Users\А\Desktop\ИТМО\ООП\OOP\Lab3\lab3App\obj\Debug\net8.0\lab3App.pdb
+C:\Users\А\Desktop\ИТМО\ООП\OOP\Lab3\lab3App\obj\Debug\net8.0\lab3App.genruntimeconfig.cache
+C:\Users\А\Desktop\ИТМО\ООП\OOP\Lab3\lab3App\obj\Debug\net8.0\ref\lab3App.dll
